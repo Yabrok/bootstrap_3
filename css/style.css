@@ -1,0 +1,46 @@
+.body {
+    background-color: var(--bg-color2);
+}
+
+
+:root {
+    --bg-color: #FFFFFF;
+    --bg-color2: #F2F2F2;
+    --t-color: #111517;
+}
+
+.dark {
+    --bg-color: #2B3844;
+    --bg-color2: #202C36;
+    --t-color: #FFFFFF;
+}
+
+.site-header {
+    color: var(--t-color);
+    background-color: var(--bg-color);
+}
+
+.textt {
+    text-decoration: none;
+
+    color: var(--t-color) !important;
+}
+
+.bb {
+    color: var(--t-color);
+}
+
+.caca {
+    background-color: var(--bg-color2) !important;
+}
+
+
+.inp {
+    background-color: var(--bg-color) !important;
+    color: var(--t-color) !important;
+}
+
+.sell {
+    background-color: var(--bg-color) !important;
+    color: var(--t-color) !important;
+}
