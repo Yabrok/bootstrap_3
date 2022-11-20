@@ -22,7 +22,6 @@
 
 .textt {
     text-decoration: none;
-
     color: var(--t-color) !important;
 }
 
@@ -43,4 +42,14 @@
 .sell {
     background-color: var(--bg-color) !important;
     color: var(--t-color) !important;
+}
+
+.hoba {
+    text-decoration: none;
+}
+
+.back {
+    color: var(--t-color) !important;
+    background-color: var(--bg-color) !important;
+    border: none !important;
 }
